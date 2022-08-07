@@ -80,8 +80,8 @@ function PropertyCreate() {
                                 value={values.isFurnished}
                                 onChange={handleChange}
                                 className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5">
-                                <option value="true">Yes</option>
-                                <option value="false">No</option>
+                                <option value="true">Eşyalı</option>
+                                <option value="false">Eşyasız</option>
                             </select>
                         </div>
 
